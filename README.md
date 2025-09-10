@@ -4,7 +4,9 @@ Performed manual and automation testing on EchoGPT, including test planning, tes
 EchoGPT Testing Project
 
 **Live Link:** https://echogpt.live/
+
 **Test Case Link:** https://docs.google.com/spreadsheets/d/1kjVKnvqQhB2-_Jp_LjR5aGqB1g7YJNBt62i4Gw4rXeI/edit?usp=sharing
+
 **Bug Report Link:** https://docs.google.com/spreadsheets/d/11ENH6NVMkEhu17LqKVR1GG5HH2oVq5wpvpUoDv8COXk/edit?usp=sharing 
 
 # Project Overview
