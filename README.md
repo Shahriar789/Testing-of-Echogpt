@@ -5,12 +5,12 @@ EchoGPT Testing Project
 
 Live Link: https://echogpt.live/
 
-📌 Project Overview
+****Project Overview****
 
 EchoGPT is a web-based platform designed for interactive conversations and AI-powered responses.
 In this project, I contributed by performing both manual and automation testing to ensure the system’s functionality, usability, and reliability.
 
-📝 Manual Testing Contributions
+**📝 Manual Testing Contributions**
 
 Prepared a Test Plan Report outlining objectives, scope, and testing strategies.
 
@@ -20,7 +20,7 @@ Executed test cases and documented results with proper validations.
 
 Logged and maintained Bug Reports with step-by-step reproduction details.
 
-🤖 Automation Testing Contributions
+**🤖 Automation Testing Contributions**
 
 Developed automation scripts in Java using Eclipse to validate core functionalities.
 
@@ -30,7 +30,7 @@ Implemented test execution workflows to ensure consistency across builds.
 
 Automated regression scenarios for faster validation cycles.
 
-⚙️ Tools & Technologies
+**⚙️ Tools & Technologies**
 
 Manual Testing: Test Case Design, Bug Reporting, Test Plan Documentation
 
@@ -38,7 +38,7 @@ Automation Testing: Java, Selenium WebDriver, Eclipse IDE
 
 Other Tools: Test Management Tools, Browser DevTools
 
-📊 Key Outcomes
+**Key Outcomes**
 
 Improved test coverage and reduced manual effort through automation.
 
